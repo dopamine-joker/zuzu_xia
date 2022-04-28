@@ -1,0 +1,59 @@
+{
+    "code": 0,
+    "data": {
+        "data": [
+            {
+                "buyName": "doper222",
+                "buyid": 6,
+                "cover": "https://dopaminer-1300511225.cos.ap-shanghai.myqcloud.com/52595e44-aad9-4c63-bb57-9bb417c8b5e4.jpg",
+                "gName": "luotong",
+                "gid": 31,
+                "id": 1,
+                "price": "666.00",
+                "sellName": "luotong",
+                "sellid": 3,
+                "status": 1,
+                "time": 1640543942
+            },
+            {
+                "buyName": "doper222",
+                "buyid": 6,
+                "cover": "https://dopaminer-1300511225.cos.ap-shanghai.myqcloud.com/7936841e-d2ff-410f-8a20-4622cb6e4c37.jpg",
+                "gName": "luotong666",
+                "gid": 32,
+                "id": 5,
+                "price": "123.00",
+                "sellName": "luotong666",
+                "sellid": 4,
+                "status": 1,
+                "time": 1640543943
+            },
+            {
+                "buyName": "doper222",
+                "buyid": 6,
+                "cover": "https://dopaminer-1300511225.cos.ap-shanghai.myqcloud.com/7936841e-d2ff-410f-8a20-4622cb6e4c37.jpg",
+                "gName": "luotong666",
+                "gid": 32,
+                "id": 9,
+                "price": "123.00",
+                "sellName": "luotong666",
+                "sellid": 4,
+                "status": 3,
+                "time": 1640593253
+            },
+            {
+                "buyName": "doper222",
+                "buyid": 6,
+                "cover": "https://dopaminer-1300511225.cos.ap-shanghai.myqcloud.com/7936841e-d2ff-410f-8a20-4622cb6e4c37.jpg",
+                "gName": "luotong666",
+                "gid": 32,
+                "id": 10,
+                "price": "123.00",
+                "sellName": "luotong666",
+                "sellid": 4,
+                "status": 0,
+                "time": 1640593946
+            }
+        ]
+    }
+}
